@@ -45,4 +45,3 @@ git reset --hard HEAD^ //回退到上一个版本，hard参数表示强制回退
 git reset --hard HEAD^^ //回退到上上个版本
 git reset --hard 版本号 //回退到指定版本,版本号可通过git log查看
 
-1
